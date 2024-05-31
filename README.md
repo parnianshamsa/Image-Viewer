@@ -9,9 +9,6 @@ it has 6 buttons,first you shoud choose an image then you can make the changes y
 4.Change the light of the photo
 #Result
 \Users\ADMIN\OneDrive\Pictures\Screenshots\Screenshot (114).png
-Change the light of the photo
 \Users\ADMIN\OneDrive\Pictures\Screenshots\Screenshot (117).png
-Gray out the photo
 \Users\ADMIN\OneDrive\Pictures\Screenshots\Screenshot 2024-05-31 190149.png
-Change the photo size
 \Users\ADMIN\OneDrive\Pictures\Screenshots\Screenshot 2024-05-31 190241.png
