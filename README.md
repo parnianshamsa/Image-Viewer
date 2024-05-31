@@ -8,7 +8,5 @@ it has 6 buttons,first you shoud choose an image then you can make the changes y
 3.Change the photo size
 4.Change the light of the photo
 #Result
-\Users\ADMIN\OneDrive\Pictures\Screenshots\Screenshot (114)
-\Users\ADMIN\OneDrive\Pictures\Screenshots\Screenshot (117)
-\Users\ADMIN\OneDrive\Pictures\Screenshots\Screenshot 2024-05-31 190149
-\Users\ADMIN\OneDrive\Pictures\Screenshots\Screenshot 2024-05-31 19024
+\Users\ADMIN\OneDrive\Pictures\Screenshots\Screenshot
+
