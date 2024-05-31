@@ -9,4 +9,4 @@ it has 6 buttons,first you shoud choose an image by adding a file adress then yo
 3.Change the photo size
 4.Change the light of the photo
 # Result
-
+"C:\Users\ADMIN\OneDrive\Pictures\Screenshots\Screenshot (114).png"
