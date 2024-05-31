@@ -1,4 +1,4 @@
-# Image-Viewer
+
 # Overview
 this is a java code that can be used to select a photo and make changes to it
 # How it works
