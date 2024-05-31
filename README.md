@@ -9,4 +9,5 @@ it has 6 buttons,first you shoud choose an image by adding a file adress then yo
 3.Change the photo size
 4.Change the light of the photo
 # Result
-\Users\ADMIN\OneDrive\Desktop
+![Uploading Screenshot (114).png…]()
+
